@@ -78,11 +78,11 @@ h3{
 
 
 #map {
-  height: 506px;
+  height: 606px;
 }
 
 .leaflet-bottom .leaflet-control {
-	margin-bottom: 0px;
+	margin-bottom: 10px;
 }
 
 
@@ -134,9 +134,9 @@ top: -30px;
 
 
 .coordinatedImagePreviewControlContainer {
-  /* position: fixed; */
-  top: 253px;
-  /* bottom:10px; */
+  position: fixed;
+  
+  bottom:10px;
   left: 10px;
   /* right:5px; */
   z-index: 400;
@@ -147,7 +147,7 @@ top: -30px;
 }
 
 .coordinatedImagePreviewControlButton {
-  top: 184px;
+  bottom:160px;
   left: 10px;
   /* right: 10px; */
   position: fixed;

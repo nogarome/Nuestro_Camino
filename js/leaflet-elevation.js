@@ -139,7 +139,7 @@
     			iconAnchor: [16, 16],
     		}),
     		placeholder: false,
-    		position: "bottomright",
+    		position: "topleft",
     		polyline: {
     			className: 'elevation-polyline',
     			color: '#000',
