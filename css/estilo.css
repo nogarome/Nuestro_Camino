@@ -1,0 +1,166 @@
+:root{
+  --blanco:#ffffff;
+  --fondoIcon:#E1ECBD;
+  --colorLime:#698216;
+  /* #E1ECBD */  
+}
+
+html,
+body,
+#map,
+#elevation-div
+ {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; /** Reset para REMS - 62.5% = 10px de 16px **/
+  font-family: 'Nunito', sans-serif; 
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/*Globales*/
+img {
+  max-width: 100%;
+}
+h1, h3{
+  margin: 0;
+  /* color: var(--blanco); */
+}
+h1{
+  font-size: 1.5rem;
+}
+h3{
+  font-size: 1.2rem;
+}
+
+/* Pantalla */
+.contenedor-general{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+/* Cabecera */
+.cabecera { 
+  max-width: 100%;    
+  margin: 0; 
+  text-align: center;  
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  ),
+  url(../img/mapa.jpg);
+  background-position: left center;
+  background-size: cover;  
+}
+.contenido-cabecera{    
+  display: flex;    
+  justify-content: space-around; 
+  align-items: center; 
+}
+.logo{
+  width: 80px; height: 80px;
+  padding:.5rem;
+  border-radius: 2rem;
+}
+.contenedor-titulo h1, h3{
+  color:white;
+}
+
+
+
+
+#map {
+  height: 606px;
+}
+
+.leaflet-bottom .leaflet-control {
+	margin-bottom: 0px;
+}
+
+
+.coordinatedImagePreviewControlOpenMenuImage {
+  background-image: url('../img/icon/images-regular.svg');
+  
+}
+
+.coordinatedImagePreviewControlCloseMenuImage {
+  background-image: url('../img/icon/images-tachadas.svg');
+top: -30px;
+
+}
+
+.leaflet-left .leaflet-control-layers-toggle {
+  background-image: url(../img/icon/map.svg);
+  background-size: 36px 36px;
+  background-color: var(--fondoIcon);
+  width: 44px;
+  height: 44px; 
+  }
+  
+  .leaflet-control-layers {
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+    background: var(--fondoIcon);
+    border-radius: 5px;
+    }
+  
+.leaflet-control-layers-toggle {
+  background-image: url(../img/icon/caminantes.png);
+  background-size: 30px 30px;
+  width: 44px;
+  height: 44px;
+  }
+
+  
+.lime-theme.leaflet-control.elevation .background{
+    background-color:transparent;    
+  }
+.elevation-summary{  
+  margin-left: 50px;
+  text-align: center;
+  margin-bottom: 10px;
+  font-family: 'Nunito', sans-serif; 
+  color: black;
+  font-size: 1.2rem;
+  background-color: var(--fondoIcon);  
+}
+
+
+.coordinatedImagePreviewControlContainer {
+  /* position: fixed; */
+  top: 253px;
+  /* bottom:10px; */
+  left: 10px;
+  /* right:5px; */
+  z-index: 400;
+  max-width: 500px;
+  width: 44px;
+  height: 44px;
+  background:transparent;
+}
+
+.coordinatedImagePreviewControlButton {
+  top: 184px;
+  left: 10px;
+  /* right: 10px; */
+  position: fixed;
+  border-style: solid;
+  border-width: 1px;
+  background-color: var(--fondoIcon);
+  border-color: lightgrey;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  width: 44px;
+  height: 44px;
+  -moz-box-shadow: 2px 2px 2px -2px gray;
+  -webkit-box-shadow: 2px 2px 2px -2px 
+}
+

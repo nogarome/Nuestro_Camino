@@ -1,0 +1,283 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.645449, 42.811704 
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/1.jpg",
+                "thumbnailLink": "img/fotosE1/1_p.jpg",
+                "title": "Pamplona",
+                "description": "Pamplona - Destino St-Jean-Pied-De-Port"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.23564, 43.163474 
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/2.jpg",
+                "thumbnailLink": "img/fotosE1/2_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.235849, 43.16337 
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/3.jpg",
+                "thumbnailLink": "img/fotosE1/3_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.237324, 43.162273  
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/4.jpg",
+                "thumbnailLink": "img/fotosE1/4_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.237324, 43.162273
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/5.jpg",
+                "thumbnailLink": "img/fotosE1/5_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.237493, 43.161835
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/6.jpg",
+                "thumbnailLink": "img/fotosE1/6_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.237324, 43.162273  
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/7.jpg",
+                "thumbnailLink": "img/fotosE1/7_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.237324, 43.162273  
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/8.jpg",
+                "thumbnailLink": "img/fotosE1/8_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.237324, 43.162273  
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/9.jpg",
+                "thumbnailLink": "img/fotosE1/9_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.237032, 43.162405   
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/10.jpg",
+                "thumbnailLink": "img/fotosE1/10_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.234894, 43.16345    
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/11.jpg",
+                "thumbnailLink": "img/fotosE1/11_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.234749, 43.162923     
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/12.jpg",
+                "thumbnailLink": "img/fotosE1/12_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+		
+		{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.234749, 43.162923      
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/13.jpg",
+                "thumbnailLink": "img/fotosE1/13_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": "Empezamos"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.2347120046615603, 43.163682731047714     
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/14.jpg",
+                "thumbnailLink": "img/fotosE1/14_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": "Empezamos"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.234878, 43.163669      
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/15.jpg",
+                "thumbnailLink": "img/fotosE1/15_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": "Empezamos"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2395368, 43.1578141      
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/16.jpg",
+                "thumbnailLink": "img/fotosE1/16_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.240382, 43.156021       
+                ]
+            },
+            "properties": {
+                "imageLink": "img/fotosE1/17.jpg",
+                "thumbnailLink": "img/fotosE1/17_p.jpg",
+                "title": "St-Jean-Pied-De-Port",
+                "description": ""
+            }
+        }
+
+        
+
+        
+        
+    ]
+
+    
+}
