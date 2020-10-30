@@ -52,12 +52,12 @@
 
         var element = item;
         element.addClass("coordinatedImagePreviewControlContainer");
-        element.append('<input id="coordinatedImagePreviewControlOpenButton" class="coordinatedImagePreviewControlButton" type="image" src="../img/icon/abrir_img.png" alt="Submit" title="' + options.openButtonTitle + '">');
+        element.append('<input id="coordinatedImagePreviewControlOpenButton" class="coordinatedImagePreviewControlButton" type="image" src="/img/icon/abrir_img.png" alt="Submit" title="' + options.openButtonTitle + '">');
 
         var parent = $("#map").parent();
         parent.append('<div id="coordinatedImagePreviewControlMainDiv" class="coordinatedImagePreviewControlMainDiv content horizontal-images"><ul id="coordinatedImagePreviewControlListUl" class="coordinatedImagePreviewControlUl"></ul></div>');
 
-        $('#coordinatedImagePreviewControlMainDiv').append('<input id="coordinatedImagePreviewControlCloseButton" class="coordinatedImagePreviewControlButton" type="image" src="../img/icon/cerrar_img.png" alt="Submit" title="' + options.closeButtonTitle + '">');
+        $('#coordinatedImagePreviewControlMainDiv').append('<input id="coordinatedImagePreviewControlCloseButton" class="coordinatedImagePreviewControlButton" type="image" src="/img/icon/cerrar_img.png" alt="Submit" title="' + options.closeButtonTitle + '">');
 
         $("#coordinatedImagePreviewControlOpenButton").click(function () {
             $("#coordinatedImagePreviewControlMainDiv")[0].style.visibility = "visible";
