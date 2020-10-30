@@ -34,8 +34,8 @@ var opts = {
   },
   layersControl: {
     options: {
-      position: 'bottomleft',
-      collapsed: true,
+      position: 'topright',
+      collapsed: false,           
     },
   },
   
@@ -99,12 +99,12 @@ var routes = L.gpxGroup(tracks, {
     elevationDiv: '#elevation-div',
     followPositionMarker: true,
     zFollow: 12,
-    height:121,            
+    height:121,                 
   },
   legend: true,
   legend_options: {
     position: "bottomright",
-    collapsed:true,                              
+    collapsed:false,                               
 },
   distanceMarkers: false,
 });
@@ -147,3 +147,5 @@ controlLayer.addTo(map);
 routes.addTo(map);
 
 map.addLayer(baseLayers["Topo"]);
+
+

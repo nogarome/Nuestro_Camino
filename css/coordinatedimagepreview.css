@@ -3,7 +3,7 @@
  Author     : yeozkaya@gmail.com
 */
 
-.coordinatedImagePreviewControlContainer {
+/* .coordinatedImagePreviewControlContainer {
     position: fixed;
     bottom:15px;
     right:5px;
@@ -12,9 +12,9 @@
     width: 50px;
     height: 42px;
     background:transparent;
-}
+} */
 
-.coordinatedImagePreviewControlMenuLink{
+/* .coordinatedImagePreviewControlMenuLink{
     background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
     border-radius: 3px;
     box-sizing: border-box;
@@ -35,25 +35,26 @@
 
     -moz-box-shadow: 2px 2px 2px -2px gray;
     -webkit-box-shadow: 2px 2px 2px -2px 
-}
+} */
 
-.coordinatedImagePreviewControlMenuImage {
+/* .coordinatedImagePreviewControlMenuImage {
     vertical-align: middle;
     cursor:pointer;
     width: 32px;
     height: 32px;
     border: none;
     margin-left: 10px;
-    background-color: white;
-}
+    background-color: rgb(255, 255, 255);
+} */
 
-.coordinatedImagePreviewControlOpenMenuImage {
-    background-image: url('../img/icon/abrir_img.png');    
-}
+/* .coordinatedImagePreviewControlOpenMenuImage {
+    background-image: url('../img/icon/abrir_img.png');  
+   
+} */
 
-.coordinatedImagePreviewControlCloseMenuImage {
+/* .coordinatedImagePreviewControlCloseMenuImage {
     background-image: url('../img/icon/cerrar_img.png');
-}
+} */
 
 .coordinatedImagePreviewControlMainDiv{
     z-index: 400;
