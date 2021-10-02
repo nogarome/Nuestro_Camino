@@ -66,7 +66,7 @@ h3{
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)
   ),
-  url(../img/mapa.jpg);
+  url(/img/mapa.jpg);
   background-position: left center;
   background-size: cover;  
 }

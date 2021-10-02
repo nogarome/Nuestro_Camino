@@ -59,7 +59,7 @@ var tracks = [
   "tracks/2019-09-26 06_48.gpx",
   "tracks/2019-09-27 06_58.gpx",
   "tracks/2019-09-28 07_51.gpx",
-  "tracks/2019-09-29 07_01.gpx",
+  "tracks/2019-09-29 07_01.gpx",  
 ];
 
 var points = [
@@ -70,7 +70,7 @@ var points = [
     {latlng:[42.673427782002605, -1.8102496862411501], name:"Puente-La-Reina"},
     {latlng:[42.66981095920804, -2.0273476839065556], name:"Estella"},
     {latlng:[42.551916501089714, -2.2710907459259038], name:"Torres-Del-Rio"},
-    {latlng:[42.468215140232, -2.444669902324677], name:"Logroño"},
+    {latlng:[42.468215140232, -2.444669902324677], name:"Logroño"},    
 ];
 
 var map = L.map('map', opts.mapa);
