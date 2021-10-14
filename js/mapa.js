@@ -60,6 +60,12 @@ var tracks = [
   "tracks/2019-09-27 06_58.gpx",
   "tracks/2019-09-28 07_51.gpx",
   "tracks/2019-09-29 07_01.gpx",  
+  "tracks/2021-09-20 07_17.gpx",
+  "tracks/2021-09-21 07_52.gpx",
+  "tracks/2021-09-22 07_44.gpx",
+  "tracks/2021-09-23 06_58.gpx",
+  "tracks/2021-09-24 07_13.gpx",
+  "tracks/II- Etapa.gpx",  
 ];
 
 var points = [
@@ -70,7 +76,13 @@ var points = [
     {latlng:[42.673427782002605, -1.8102496862411501], name:"Puente-La-Reina"},
     {latlng:[42.66981095920804, -2.0273476839065556], name:"Estella"},
     {latlng:[42.551916501089714, -2.2710907459259038], name:"Torres-Del-Rio"},
-    {latlng:[42.468215140232, -2.444669902324677], name:"Logroño"},    
+    {latlng:[42.468215140232, -2.444669902324677], name:"Logroño"},
+    {latlng:[42.4678129, -2.4361991], name:"Logroño"},
+    {latlng:[42.418103086039764, -2.7350182234749814], name:"Nájera"},
+    {latlng:[42.44043030763493, -2.9546045065580984], name:"St-Domingo-De-La-Calzada"},
+    {latlng:[42.418278, -3.1836227], name:"Belorado"},
+    {latlng:[42.3695574, -3.4789829], name:"Agés"},
+    {latlng:[42.3470482, -3.6857035], name:"Burgos"},    
 ];
 
 var map = L.map('map', opts.mapa);

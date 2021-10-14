@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <gpx creator="WTracks" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
-  <name>I-2- Roncesvalles / Zubiri</name>
+  <name>I-2 - Roncesvalles / Zubiri</name>
   <desc></desc>
   <author><name>WTracks</name></author>
   <link href='https://opoto.github.io/wtracks/'>
@@ -11,7 +11,7 @@
   <time>2019-11-17T22:50:10.253Z</time>
   <bounds minlat="43.008926961047976" minlon="-1.3226401805877688" maxlat="43.0110412690769" maxlon="-1.3157737255096436"/>
 </metadata>
-<wpt lat="42.97133191226951" lon="-1.4078888297080996"><name>Etapa: 2</name><desc>&lt;p&gt;&lt;br /&gt;&lt;h3&gt;Roncesvalles / Zubiri&lt;/h3&gt;&lt;br /&gt;Hora Inicio: 7:13 24 sept. 2019&lt;br/&gt;Hora Fin: 13:16 24 sept. 2019&lt;br/&gt;Distancia recorrida: 21,5km (06:02)&lt;br/&gt;Tiempo en movimiento: 04:49&lt;br/&gt;Velocidad media: 3,55 km/h&lt;br/&gt;Vel. en Mov.: 4,46 km/h&lt;br/&gt;Velocidad Máxima: 7,6 km/h&lt;br/&gt;Altura Mínima: 528 m&lt;br/&gt;Altura Máxima: 1071 m&lt;br/&gt;Velocidad Ascenso: 328,9 m/h&lt;br/&gt;Velocidad Descenso: -325,6 m/h&lt;br/&gt;Ganancia Altitud: 760 m&lt;br/&gt;Pérdida Altitud: -1201 m&lt;br/&gt;Tiempo Ascenso: 02:18&lt;br/&gt;Tiempo Descenso: 03:41&lt;br/&gt;&lt;/p&gt;</desc><time>2019-09-24T11:16:03Z</time></wpt>
+<wpt lat="42.97133191226951" lon="-1.4078888297080996"><!-- <name>Etapa: 2</name> --><desc>&lt;p&gt;&lt;br /&gt;&lt;h3&gt;Roncesvalles / Zubiri&lt;/h3&gt;&lt;br /&gt;Hora Inicio: 7:13 24 sept. 2019&lt;br/&gt;Hora Fin: 13:16 24 sept. 2019&lt;br/&gt;Distancia recorrida: 21,5km (06:02)&lt;br/&gt;Tiempo en movimiento: 04:49&lt;br/&gt;Velocidad media: 3,55 km/h&lt;br/&gt;Vel. en Mov.: 4,46 km/h&lt;br/&gt;Velocidad Máxima: 7,6 km/h&lt;br/&gt;Altura Mínima: 528 m&lt;br/&gt;Altura Máxima: 1071 m&lt;br/&gt;Velocidad Ascenso: 328,9 m/h&lt;br/&gt;Velocidad Descenso: -325,6 m/h&lt;br/&gt;Ganancia Altitud: 760 m&lt;br/&gt;Pérdida Altitud: -1201 m&lt;br/&gt;Tiempo Ascenso: 02:18&lt;br/&gt;Tiempo Descenso: 03:41&lt;br/&gt;&lt;/p&gt;</desc><time>2019-09-24T11:16:03Z</time></wpt>
 <trk><name>2019-09-24 07:13</name>
   <trkseg>
     <trkpt lat="43.010366581286306" lon="-1.319284737110138"><ele>953</ele></trkpt>
