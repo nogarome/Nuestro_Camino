@@ -35,7 +35,7 @@ var opts = {
   layersControl: {
     options: {
       position: 'topright',
-      collapsed: false,           
+      collapsed: true,           
     },
   },
   
@@ -116,7 +116,7 @@ var routes = L.gpxGroup(tracks, {
   legend: true,
   legend_options: {
     position: "bottomright",
-    collapsed:false,                               
+    collapsed: true,                               
 },
   distanceMarkers: false,
 });
